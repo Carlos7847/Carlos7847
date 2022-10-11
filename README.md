@@ -2,16 +2,18 @@
 #### I am Full Stack Web Developer
 ![I am Full Stack Web Developer](https://th.bing.com/th/id/OIP.ocLeVnq-Ji45r8-NrtRXMAHaC5?pid=ImgDet&rs=1)
 
-Soy egresado del bootcamp SoyHenry. Donde desarrollé projectos tanto en el back como en el frontend. 
-Un proyecto individual PI-foods que consume datos de la API Spoonacular, en esta se pueden ver datos de distintas comidas, filtrarlos por tipos, ordenar alfabéticamente, buscar por nombre exacto de la comida, crear un nuevo platillo. También se puede acceder al detalle de cada pokemon haciendo click en él y cuenta con un paginado previous-next y numeral. Y un proyecto grupal en el que se trabajo con metodologías agiles.
+Soy egresado del bootcamp SoyHenry. Donde desarrollé projectos tanto en el back como en el frontend con un proyecto individual y un proyecto grupal en el que se trabajo con metodologías agiles.
 Pueden ver mis skills aqui:
 
 Habilidades: FullStack Developer -JavaScript  | React Js | Redux |Node Js |  Express Js | PostgreSQL |  Sequelize
 
 - 📫 Cómo contactarme: carlofermp@gmail.com 
+- ⚡ Dato curioso: Me encanta escuchar buena música para variar un poco. También me gustan los animales, en especial los gatos y sé tocar la guitarra 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/carlos-mamani-784992238//)  
+
+ 
 
 
 
