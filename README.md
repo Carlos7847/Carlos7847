@@ -2,7 +2,13 @@
 #### I am Full Stack Web Developer
 ![I am Full Stack Web Developer](https://th.bing.com/th/id/OIP.ocLeVnq-Ji45r8-NrtRXMAHaC5?pid=ImgDet&rs=1)
 
-Soy egresado del bootcamp SoyHenry. Donde desarrollé projectos tanto en el back como en el frontend con un proyecto individual y un proyecto grupal en el que se trabajo con metodologías agiles.
+Soy un desarrollador Full Stack con más de un año de experiencia, enfocado principalmente en el desarrollo backend utilizando tecnologías como Node.js, PostgreSQL y Sequelize. A lo largo de mi trayectoria, he adquirido un conocimiento sólido del frontend, trabajando con Vue.js y previamente con React, lo que me ha permitido tener una visión integral del desarrollo de aplicaciones.
+
+Siempre estoy en constante aprendizaje y exploración de nuevas tecnologías. Recientemente he estado profundizando en Docker, Nest.js, TypeScript, arquitecturas DDD y MongoDB, con el objetivo de mejorar mis habilidades y aportar soluciones más eficientes y escalables.
+
+Mi experiencia se centra en la resolución efectiva de problemas. He sido responsable de identificar y corregir bugs, así como de implementar nuevas funcionalidades para optimizar continuamente las plataformas con las que trabajo. Además, tengo experiencia en el uso de queries, funciones y triggers en SQL, lo que me ha permitido desarrollar una comprensión profunda del ciclo completo de desarrollo de software.
+
+Cuento con un nivel conversacional de inglés, lo que me permite comunicarme eficazmente en entornos internacionales y colaborar con equipos diversos.
 Pueden ver mis skills aqui:
 
 Habilidades: FullStack Developer -JavaScript  | React Js | Redux |Node Js |  Express Js | PostgreSQL |  Sequelize
